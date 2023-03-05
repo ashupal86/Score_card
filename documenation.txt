@@ -1,0 +1,2 @@
+# This is documentation of score card 
+--This will take input as marks and save it in a file with student name , dob,class,section as a sigle txt file and also save their individual marks of all subject in same file.
